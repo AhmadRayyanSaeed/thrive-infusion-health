@@ -1,0 +1,573 @@
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  /* header */
+
+  #head_inner {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 0 10px;
+  }
+
+  #hea_but {
+    font-size: 15px;
+    font-family: Gotham;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(239 226 208);
+    color: #41403c;
+    height: 35px;
+    padding: 8px 10px;
+  }
+
+  #hea_logo {
+    align-content: center;
+  }
+
+  #head_spans {
+    color: #ffffff;
+    font-size: 13px;
+    font-family: Greenpark_bold;
+  }
+
+  #head_img {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+  }
+
+  /* section 1 */
+
+  .section1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("/assets/images/headerpics/senior-modern-stylish-man-outdoors-on-the-sportive-2026-01-09-00-27-24-utc.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #se1_inner {
+    margin: auto;
+    padding: 200px 10px 60px;
+  }
+
+  #se1_inner h2 {
+    font-size: 22px;
+    font-family: Greenpark_bold;
+    color: #ffffff;
+    line-height: 1.6em;
+  }
+
+  #se1_inner h1 {
+    font-size: 45px;
+    font-family: Greenpark_bold;
+    color: #efe9d7;
+    width: 100%;
+    border: none;
+  }
+
+  #se1_but {
+    font-size: 15px;
+    font-family: Gotham;
+    color: #756767;
+    border-radius: 40px;
+    background-color: #ffffff;
+    height: 42px;
+    margin: 15px 0px;
+    border: none;
+  }
+
+  #se1_bet_col {
+    color: whitesmoke;
+  }
+
+  /* section 2 */
+
+  .section2 {
+    background-image: url("/assets/images/section2/img1.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding: 90px 10px;
+    background-size: cover;
+  }
+
+  #se2_inner {
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  #se2_img_box {
+    width: 100%;
+  }
+
+  #se2_img_box img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  #se2_h2 {
+    color: #565142;
+    font-size: 32px;
+    font-family: Greenpark_bold;
+  }
+
+  #se2_nextbox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin-top: 25px;
+  }
+
+  .se2_paras {
+    font-size: 14px;
+    font-family: Gotham;
+    line-height: 2.2em;
+    color: #857a5a;
+  }
+
+  .pa1 {
+    margin-bottom: 20px;
+  }
+
+  /* section 3 */
+
+  #se3_container {
+    margin: auto;
+    padding: 90px 10px;
+  }
+
+  #se3_h2 {
+    color: #474b4e;
+    font-size: 36px;
+    font-family: Greenpark_bold;
+    text-align: center;
+  }
+
+  .se3_h4 {
+    color: #797979;
+    font-size: 14px;
+    font-family: Gotham_Italic;
+    text-align: center;
+  }
+
+  .se3_inner {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 30px 0px;
+  }
+
+  #se3_box1 {
+    width: 100%;
+  }
+
+  #se3_box1 img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  #se3_nextbox_box1 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  /* box 2 */
+
+  #se3_nextbox_box2 {
+    width: 100%;
+  }
+
+  #se3_box2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  #se3_nextbox_box2 h2 {
+    font-size: 19px;
+    font-family: Greenpark_bold;
+    color: #797979;
+    margin: 12px 0px;
+  }
+
+  #se3_box2 img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  .se3_h3_2 {
+    font-size: 14px;
+    font-family: Greenpark_bold;
+    color: #797979;
+  }
+
+  .se3_h3 {
+    font-size: 22px;
+    font-family: Greenpark_bold;
+    color: #775900;
+    font-weight: bold;
+  }
+
+  #se3_nextbox h2 {
+    font-size: 19px;
+    font-family: Greenpark_bold;
+    color: #555555;
+  }
+
+  #se3_h2_3 {
+    color: #ddd1af;
+    font-size: 22px;
+    font-family: Greenpark_bold;
+    margin: 10px 0px;
+  }
+
+  #se3_p1 {
+    font-size: 14px;
+    font-family: Gotham;
+    color: #bebab3;
+    line-height: 2.2em;
+  }
+
+  #se3_p2 {
+    font-size: 14px;
+    font-family: Greenpark_bold;
+    color: #bcbcbc;
+  }
+
+  .se3_h3_text {
+    font-family: Gotham, Greenpark_bold;
+    color: #9b9b9b;
+  }
+
+  #se3_nextbox_box2 ul li {
+    font-size: 14px;
+    font-family: Gotham;
+    color: #bebab3;
+    line-height: 2.2em;
+    margin-top: 8px;
+  }
+
+  /* box 3 */
+
+  #se3_inner_box3_pics2 {
+    align-items: flex-start;
+    display: flex;
+    margin: 40px 0px;
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .se3_img_box3 img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  .se3_last_box ul li {
+    font-size: 14px;
+    font-family: Gotham;
+    color: #bebab3;
+    line-height: 2.2em;
+    margin-top: 8px;
+  }
+
+  .se3_box3 h2 {
+    font-size: 19px;
+    font-family: Greenpark_bold;
+    color: #797979;
+    padding-top: 18px;
+  }
+
+  .se3_box3 h3 {
+    font-size: 24px;
+    font-family: Greenpark_bold;
+    color: #998751;
+    padding-bottom: 14px;
+  }
+
+  .se3_price {
+    color: #5a4830;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Gotham, Greenpark_bold;
+  }
+
+  /* section 4 */
+
+  .section4 {
+    background-image: url("/assets/images/section4/bg.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px 10px;
+  }
+
+  #se4_container {
+    margin: auto;
+  }
+
+  #se4_firstbox {
+    text-align: center;
+  }
+
+  #se4_h2 {
+    color: #ffffff;
+    font-size: 32px;
+    font-family: Greenpark_bold;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #se4_h3 {
+    font-family: Gotham;
+    font-size: 14px;
+    color: #797979;
+    text-align: center;
+  }
+
+  #se4_inner {
+    display: flex;
+    padding: 40px 0px;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+  #se4_nextbox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #se4_nextbox h3 {
+    color: #ffffff;
+    font-family: Greenpark_bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  #se4_nextbox h2 {
+    color: #dcd3b6;
+    font-family: Greenpark_bold;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #se4_nextbox ul {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 25px;
+  }
+
+  #se4_nextbox ul li {
+    color: #edebe6;
+    font-family: Gotham;
+    font-size: 14px;
+    line-height: 2.2em;
+  }
+
+  .se4_img1,
+  .se4_img2 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .se4_img1 img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  .se4_img2 img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  #se4_next_paras {
+    padding-top: 15px;
+  }
+
+  /* box 2 */
+
+  #se4_nextbox_man {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  #se4_nextbox_ids_pars {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  #se4_nextbox_ids_pars h3 {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Greenpark_bold;
+    margin-bottom: 10px;
+  }
+
+  #se4_nextbox_ids_pars h2 {
+    color: #efe9d7;
+    font-size: 18px;
+    font-family: Greenpark_bold;
+    margin-top: 12px;
+    margin-bottom: 5px;
+  }
+
+  #se4_nextbox_ids_pars ul {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-left: 25px;
+  }
+
+  #se4_nextbox_ids_pars ul li {
+    color: #c0b3b3;
+    font-size: 14px;
+    font-family: Gotham;
+    line-height: 1.8em;
+  }
+
+  /* section 5 */
+
+  #section5 {
+    background-image: url("./assets/images/section 5/Background.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px 10px;
+  }
+
+  .se5_inner {
+    margin: auto;
+  }
+
+  #se5_firstbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  #se5_h2 {
+    color: #b6a993;
+    font-family: Greenpark_bold;
+    font-size: 36px;
+  }
+
+  #se5_h3 {
+    color: #5a4830;
+    font-family: Myriad Pro;
+    font-size: 17px;
+    margin-top: 10px;
+  }
+
+  #se5_container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 50px;
+    justify-content: space-between;
+  }
+
+  #se5_img {
+    width: 100%;
+  }
+
+  #se5_img img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    border-radius: 25px;
+  }
+
+  #se5_nextbox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 25px;
+  }
+
+  #se5_nextbox h2 {
+    color: #b7ac8c;
+    font-size: 24px;
+    font-family: Greenpark_bold;
+    margin-bottom: 10px;
+  }
+
+  #se5_nextbox ul {
+    margin-bottom: 20px;
+    padding-left: 25px;
+  }
+
+  #se5_nextbox ul li {
+    color: #6d5525;
+    font-family: Gotham;
+    font-size: 15px;
+    line-height: 2em;
+  }
+
+  /* footer section */
+
+  .footer {
+    padding: 15px 0px;
+    background-image: url("/assets/images/footer/bg.png");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .footer-content h2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+    color: #59462f;
+    font-family: Greenpark_bold;
+  }
+
+  .footer-content p {
+    font-family: Gotham;
+    font-size: 16px;
+    color: #ffffff;
+  }
+
+  /* copyright */
+
+  .copyright {
+    padding: 25px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .copyright p {
+    font-family: Gotham;
+    font-size: 14px;
+    color: #756b5c;
+  }
+}
